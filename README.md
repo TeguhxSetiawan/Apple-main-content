@@ -4,9 +4,9 @@ Footer/Header tinggal diisikan.
 
 # Untuk dinyatakan “PASS”, Halaman Web Anda harus memiliki 6 komponen:
 
-- Header
+- Header ✔
 - Bagian Main ✔
 - Bagian Body ✔
 - Footer ✔
 - Setidaknya satu animasi ✔
-- Desain responsif untuk smartphone dan tablet
+- Desain responsif untuk smartphone dan tablet ✔
